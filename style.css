@@ -9,6 +9,7 @@ body{
     float: left;  
     text-align:start;  
     padding: 1%;
+    margin-bottom: 6%;
 }
 h1{
   margin: 0;
@@ -21,6 +22,7 @@ h1{
     padding: 2.5%;
     float: left;
     margin: 6%;
+    margin-top: 5%;
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 *{
@@ -136,7 +138,7 @@ h1{
     }
   }
   .space{
-    margin-top: 5%;
+    margin-top: 1%;
     float: left;
     width: 100%;
   }
